@@ -1,11 +1,13 @@
 GIT-TUTORIAL
+
 https://www.youtube.com/watch?v=Uszj_k0DGsg
 https://www.udemy.com/course/versionsverwaltung-mit-git-und-github-fur-anfanger/learn/lecture/19451080#overview
 
-clients von Anbieter  http://git-tower.com
+clients von Anbieter  
+http://git-tower.com
 http://github.com
-gitlab.com
-bitbucket.com
+http://gitlab.com
+http://bitbucket.com
 
 //ACHTUNG MIT PASSWÖRTERN + URLS 
 etc. dürfen nach Möglichkeit gar nicht erst im Code auftauchen
